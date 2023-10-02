@@ -4,7 +4,7 @@ Repository for our submission to the [Multi-Agent Safety Hackathon](https://alig
 
 Contributors:
 
-Jack Foxabbot (jfoxabbott@gmail.com)
-Marcel Hedman (marcelhedman@gmail.com)
-Kaspar Senft (senft.kaspar@gmail.com)
-Kianoosh Ashouritaklimi (kiaashouri@gmail.com)
+- Jack Foxabbot (jfoxabbott@gmail.com)
+- Marcel Hedman (marcelhedman@gmail.com)
+- Kaspar Senft (senft.kaspar@gmail.com)
+- Kianoosh Ashouritaklimi (kiaashouri@gmail.com)
